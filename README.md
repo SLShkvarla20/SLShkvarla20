@@ -1,9 +1,7 @@
 # Hi, my name is [Samuil Shkvarla](https://github.com/SLShkvarla20)👋
 <hr>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<img align="right" height="250" width="375" alt="" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" />
+<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/b8/32/02/b832028c117cb548614cbea10f0153dc.gif" />
 
 ## About me:
 
@@ -32,18 +30,6 @@
   
 ### Projects and Dev Stuffs:
 
-<details>
-  <summary><b>🐍 Contribution Graph</b></summary>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="snake gif">
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Repositories</b></summary>
-
-  [![SLShkvarla20](https://github.com/SLShkvarla20/SLShkvarla20/blob/main/README.md)](https://github.com)
-  
-</details>
-
 <details style = "display: inline;">
   <summary><b>📚 Badges</b></summary>
 
@@ -55,6 +41,6 @@
   <hr>
 <div align="center">
 
-# Never stop to develop yourself!
+  # Never stop <i>developing</i> yourself!
 
 </div>
