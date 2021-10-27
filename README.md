@@ -40,21 +40,21 @@
 <details>
   <summary><b>🧑‍🚀 Repositories</b></summary>
 
-[![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com)
-[![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com)
+  [![SLShkvarla20](https://github.com/SLShkvarla20/SLShkvarla20/blob/main/README.md)](https://github.com)
+  
 </details>
 
 <details style = "display: inline;">
   <summary><b>📚 Badges</b></summary>
 
-<a href ="https://www.credly.com/earner/earned/badge/3b9ad525-2a8d-46e4-9dbb-c3e2fcd697f3"><img align="left" alt="Excel" width="200px" src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" ></a>
- <a href ="https://www.credly.com/earner/earned/badge/0b2cf9f0-e2cf-414b-9358-e4f84dc5e615"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/340x340/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png" ></a>
+<img align="left" alt="Excel" width="200px" src="https://images.credly.com/images/b9912ce7-7c17-40bc-afbb-ca4251ea1416/MOS_Word.png" ></a>
+<img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" ></a>
 </details>  
 
 <br>
   <hr>
 <div align="center">
 
-# Focus on yourself not others!
+# Never stop to develop yourself!
 
 </div>
