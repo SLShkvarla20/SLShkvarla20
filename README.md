@@ -6,7 +6,7 @@
 ## About me:
 
 - 🌱 I’m currently learning C++ and HTML5 & CSS3.
-- 💬 I’m 15-year-old and I’m studying in the most modern school in my contry.
+- 💬 I’m 15-year-old and I’m studying in the most modern school in my country.
 - 📫 How to reach me: SLShkvarla20@codingburgas.bg
 <hr>
 
